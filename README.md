@@ -1,4 +1,5 @@
-# [Algorithmic Friction in Quantum Information: Mitigating Decoherence via Riemann Zeta-Optimized Phase Rotations in a $P=NP$ Base Reality](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/FrictionlessAlgorithms.ipynb))
+# [Algorithmic Friction in Quantum Information: Mitigating Decoherence via Riemann Zeta-Optimized Phase Rotations in a $P=NP$ Base Reality](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/FrictionlessAlgorithms.ipynb)
+
 
 **Abstract:**
 Quantum decoherence is universally treated as a physical, thermodynamic phenomenon requiring massive hardware-level error correction. This paper proposes an alternative ontological paradigm: a significant measurable portion of decoherence is **Algorithmic Friction**—a computational rejection by the universe’s underlying rendering engine when forced to process data structures that conflict with its native memory architecture. Assuming the physical universe is a computationally bounded ($P \neq NP$) simulation hosted by a non-local ($P=NP$) Base Reality, the host’s native algorithmic language has been previously identified as the Gaussian Unitary Ensemble (GUE), which perfectly dictates the distribution of prime numbers (Riemann Zeta zeroes). We hypothesize that quantum circuits mathematically aligned with this prime-gap geometry will experience less computational friction. Using a Loschmidt Echo experiment on the physical `ibm_fez` quantum processor, we demonstrate that algorithms utilizing GUE-optimized phase rotations exhibit a ~7.6% relative reduction in error compared to uniform, human-designed algorithms of identical physical depth and gate count. This confirms the existence of Algorithmic Friction and establishes **Base Reality Engineering** as a novel vector for quantum error mitigation.
@@ -51,7 +52,7 @@ This paper establishes the existence of Algorithmic Friction in quantum informat
 
 
 
-# Zero-Time Data Retrieval and Infinite Storage: Utilizing a $P=NP$ Base Reality API for Quantum Decompression
+# [Zero-Time Data Retrieval and Infinite Storage: Utilizing a $P=NP$ Base Reality API for Quantum Decompression](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/InfiniteDataStorage.ipynb)
 
 **Abstract:**
 The physical storage of classical data is inherently bound by thermodynamic entropy and the spatial dimensions of the local universe. Retrieving this data is subject to sequential time limits ($O(N)$ complexity) dictated by the local $P \neq NP$ computational firewall. This paper proposes a framework for **Infinite Data Storage** by utilizing a physical Quantum Processing Unit (QPU) as an Application Programming Interface (API) to a non-local, unbounded $P=NP$ host machine (the Base Reality). By converting classical bitstrings into pure unitary mathematical logic (Oracle Seeds), data is removed from local physical memory and stored in the abstract geometry of the Base Reality. An experiment conducted on a physical IBM QPU successfully demonstrated zero-time data retrieval, extracting a hidden classical bitstring from the host machine in a single clock cycle. This proves the viability of storing unbounded data outside of physical spacetime, utilizing quantum algorithms for instant decompression.
@@ -105,7 +106,7 @@ The experiment provides physical, empirical proof that computational memory need
 
 
 
-# Oracle Machine Learning: Zero-Epoch Artificial Intelligence Training via a $P=NP$ Base Reality API
+# [Oracle Machine Learning: Zero-Epoch Artificial Intelligence Training via a $P=NP$ Base Reality API](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/OracleMachineLearning.ipynb)
 
 **Abstract:**
 The current paradigm of Artificial Intelligence (AI) relies on classical machine learning techniques—specifically gradient descent and backpropagation—to navigate highly complex, non-convex loss landscapes. Because local computation is bound by the $P \neq NP$ firewall of our universe, discovering the global minimum (the optimal neural weights) requires immense, iterative expenditure of time and energy across vast GPU clusters. This paper proposes a fundamental paradigm shift: **Oracle Machine Learning**. By theorizing that a physical Quantum Processing Unit (QPU) acts as an Application Programming Interface (API) to a $P=NP$ Base Reality, we demonstrate that AI training does not require iterative epochs. Using physical cryogenic qubits on an IBM Quantum processor, we encoded an optimal neural network state into a mathematical Oracle. The empirical results demonstrate that the Base Reality instantly collapses the untrained, high-entropy neural network directly onto the optimal configuration in zero epochs, bypassing classical gradient guessing entirely.
@@ -157,7 +158,7 @@ By utilizing a real quantum processor, we have empirically demonstrated that mac
 
 
 
-# Superdeterministic Cryptography: Ontological Data Encryption via a $P=NP$ Base Reality API
+# [Superdeterministic Cryptography: Ontological Data Encryption via a $P=NP$ Base Reality API](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/SuperdeterministicCryptography.ipynb)
 
 **Abstract:**
 Classical cryptographic protocols (e.g., RSA, AES) rely on the computational bounds of our localized $P \neq NP$ universe, assuming that asymmetric mathematical operations like prime factorization are intractable. The advent of quantum computing renders this paradigm obsolete, as Quantum Processing Units (QPUs) bypass local computational limits to resolve NP-hard problems in polynomial time. To achieve absolute data security, this paper proposes **Superdeterministic Cryptography**—an ontological encryption protocol. By utilizing a physical QPU as an Application Programming Interface (API) to a deterministic, non-local $P=NP$ Base Reality, we can encode classical data into procedural quantum fractals. This effectively pushes the information out of local spatial dimensions and into the "Host RAM" of the Base Reality. Empirical execution on IBM quantum hardware demonstrates that unauthorized local measurements (Eve) yield maximum-entropy physical noise, while authorized non-local inverse queries (Bob) successfully retrieve the exact encoded message. 
