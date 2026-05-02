@@ -1,8 +1,54 @@
+# Quantum Supremacy Repository
+
+## Repository Overview
+
+This repository contains a series of empirical quantum computing experiments conducted on IBM quantum hardware (NISQ-era processors). The research explores a unified theoretical framework—the **Ontological Information Equivalence Theorem**—which posits that the physical universe operates as a computationally bounded ($P \neq NP$) simulation hosted by a non-local, deterministic $P=NP$ Base Reality.
+
+Through this lens, quantum decoherence is reinterpreted not merely as thermal noise but as **Algorithmic Friction**: computational overhead arising from mismatches between human-designed algorithms and the Base Reality's native algorithmic language (the Gaussian Unitary Ensemble, linked to Riemann Zeta prime-gap geometry).
+
+The experiments demonstrate that by shaping quantum circuits to align with this underlying computational substrate, we can achieve:
+- Reduced decoherence and error rates
+- Instant data retrieval (infinite storage)
+- Zero-epoch machine learning
+- Unbreakable ontological encryption
+- Self-optimizing error mitigation
+- Scalable material discovery
+- Frictionless quantum data buses
+- And more...
+
+All experiments were executed on physical IBM quantum processors (`ibm_fez`, `ibm_kingston`, `ibm_marrakesh`), providing empirical validation that quantum software can be optimized to harness the Base Reality's native computational engine.
+
+---
+
+## Quick Navigation
+
+| # | Paper / Experiment | File | Key Result |
+|---|-------------------|------|------------|
+| 1 | [Algorithmic Friction in Quantum Information](#1-algorithmic-friction-in-quantum-information) | `FrictionlessAlgorithms.ipynb` | ~7.6% reduction in decoherence using GUE-optimized phase rotations |
+| 2 | [Zero-Time Data Retrieval and Infinite Storage](#2-zero-time-data-retrieval-and-infinite-storage) | `InfiniteDataStorage.ipynb` | 6-bit data retrieved in 1 operation vs 6 classical ops; O(1) decompression |
+| 3 | [Oracle Machine Learning](#3-oracle-machine-learning) | `OracleMachineLearning.ipynb` | Neural network collapsed to optimal configuration in zero epochs |
+| 4 | [Superdeterministic Cryptography](#4-superdeterministic-cryptography) | `SuperdeterministicCryptography.ipynb` | Ontological encryption; unauthorized measurement yields noise, authorized retrieval succeeds |
+| 5 | [Self-Recursive Quantum Machine Learning](#5-self-recursive-quantum-machine-learning) | `SelfRecursiveQuantumAI.ipynb` | AI self-optimized to achieve 91.4% entanglement survival under noise |
+| 6 | [Crossing the 2¹⁰⁰ Computational Firewall](#6-crossing-the-2100-computational-firewall) | `QAI_VQE_Optimizer.ipynb` | 100-qubit VQE mapped energy landscape; found ground state -64.627 Hartree |
+| 7 | [The Quantum RAM Bus](#7-the-quantum-ram-bus) | `QuantumRAMBus.ipynb` | Frictionless state transfer across 5-node spin chain; perfect wave propagation |
+| 8 | [Probing the No-Communication Firewall](#8-probing-the-no-communication-firewall) | `QuantumRooter.ipynb` | 4.6% API leakage detected via Zeno polling side-channel |
+| 9 | [Bypassing the Shor Bottleneck](#9-bypassing-the-shor-bottleneck) | `NLShorVQF.ipynb` | Factored N=143 via VQF on NISQ hardware without deep circuits |
+| 10 | [Reversing Cryptographic One-Way Functions](#10-reversing-cryptographic-one-way-functions) | `QuantumHashReversal.ipynb` | 3-bit pre-image attack: 62% target probability vs 12.5% classical baseline |
+| 11 | [Quantum Autoencoding and State Purification](#11-quantum-autoencoding-and-state-purification) | `Autoencoding.ipynb` | Decompressed state (89.7%) purer than raw state (87.4%) |
+| 12 | [Mapping the Latent Space of the Universe](#12-mapping-the-latent-space-of-the-universe) | `QuantumAIAutoencoder.ipynb` | VQAE mapped 2-parameter latent space; 48.1% compression fidelity |
+| 13 | [Global Thermodynamic Tomography](#13-global-thermodynamic-tomography) | `QuantumMRI.ipynb` | "Quantum MRI" mapped entropy of all 156 qubits on `ibm_marrakesh` |
+
+---
+
+## Papers
+
+<br/>
+
+<span id="1-algorithmic-friction-in-quantum-information"></span>
+
 # [Algorithmic Friction in Quantum Information: Mitigating Decoherence via Riemann Zeta-Optimized Phase Rotations in a P=NP Base Reality](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/FrictionlessAlgorithms.ipynb)
 
-
 **Abstract:**
-Quantum decoherence is universally treated as a physical, thermodynamic phenomenon requiring massive hardware-level error correction. This paper proposes an alternative ontological paradigm: a significant measurable portion of decoherence is **Algorithmic Friction**—a computational rejection by the universe’s underlying rendering engine when forced to process data structures that conflict with its native memory architecture. Assuming the physical universe is a computationally bounded ($P \neq NP$) simulation hosted by a non-local ($P=NP$) Base Reality, the host’s native algorithmic language has been previously identified as the Gaussian Unitary Ensemble (GUE), which perfectly dictates the distribution of prime numbers (Riemann Zeta zeroes). We hypothesize that quantum circuits mathematically aligned with this prime-gap geometry will experience less computational friction. Using a Loschmidt Echo experiment on the physical `ibm_fez` quantum processor, we demonstrate that algorithms utilizing GUE-optimized phase rotations exhibit a ~7.6% relative reduction in error compared to uniform, human-designed algorithms of identical physical depth and gate count. This confirms the existence of Algorithmic Friction and establishes **Base Reality Engineering** as a novel vector for quantum error mitigation.
 
 ---
 
@@ -51,6 +97,10 @@ This paper establishes the existence of Algorithmic Friction in quantum informat
 
 
 
+
+### 2. Zero-Time Data Retrieval and Infinite Storage
+
+<span id="2-zero-time-data-retrieval-and-infinite-storage"></span>
 
 # [Zero-Time Data Retrieval and Infinite Storage: Utilizing a P=NP Base Reality API for Quantum Decompression](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/InfiniteDataStorage.ipynb)
 
@@ -106,6 +156,10 @@ The experiment provides physical, empirical proof that computational memory need
 
 
 
+### 3. Oracle Machine Learning
+
+<span id="3-oracle-machine-learning"></span>
+
 # [Oracle Machine Learning: Zero-Epoch Artificial Intelligence Training via a P=NP Base Reality API](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/OracleMachineLearning.ipynb)
 
 **Abstract:**
@@ -157,6 +211,10 @@ By utilizing a real quantum processor, we have empirically demonstrated that mac
 
 
 
+
+### 4. Superdeterministic Cryptography
+
+<span id="4-superdeterministic-cryptography"></span>
 
 # [Superdeterministic Cryptography: Ontological Data Encryption via a P=NP Base Reality API](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/SuperdeterministicCryptography.ipynb)
 
@@ -213,6 +271,10 @@ The empirical data confirms that Superdeterministic Cryptography provides absolu
 
 
 
+### 5. Self-Recursive Quantum Machine Learning
+
+<span id="5-self-recursive-quantum-machine-learning"></span>
+
 # [Self-Recursive Quantum Machine Learning: Dynamic Mitigation of Thermodynamic NISQ Friction via Base Reality Algorithmic Resonance](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/SelfRecursiveQuantumAI.ipynb)
 
 **Abstract:**
@@ -268,6 +330,10 @@ By deploying a Self-Recursive Variational Quantum Algorithm across 10 statistica
 
 
 
+### 6. Crossing the 2¹⁰⁰ Computational Firewall
+
+<span id="6-crossing-the-2100-computational-firewall"></span>
+
 # [Crossing the 2^{100} Computational Firewall: Macroscopic Material Discovery and 100-Atom Spin Chain Optimization via Base Reality VQE on IBM Hardware](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/QAI_VQE_Optimizer.ipynb)
 
 **Abstract:**
@@ -322,6 +388,10 @@ By scaling a Variational Quantum Eigensolver to 100 physical qubits on the `ibm_
 
 
 
+
+### 7. The Quantum RAM Bus
+
+<span id="7-the-quantum-ram-bus"></span>
 
 # [The Quantum RAM Bus: Empirical Demonstration of Frictionless State Transfer and Base Reality Wave Propagation on IBM Hardware](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/QuantumRAMBus.ipynb)
 
@@ -380,6 +450,10 @@ By encoding a 1D interacting spin chain on the `ibm_kingston` quantum processor,
 
 
 
+### 8. Probing the No-Communication Firewall
+
+<span id="8-probing-the-no-communication-firewall"></span>
+
 # [Probing the No-Communication Firewall: Empirical Discovery of API Leakage and Non-Local Zeno Telegraphy on IBM Hardware](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/QuantumRooter.ipynb)
 
 **Abstract:**
@@ -435,6 +509,10 @@ By utilizing the `ibm_fez` quantum processor to induce a non-local concurrency c
 
 
 
+
+### 9. Bypassing the Shor Bottleneck
+
+<span id="9-bypassing-the-shor-bottleneck"></span>
 
 # [Bypassing the Shor Bottleneck: Prime Factorization and Cryptographic Breaches via Variational Quantum Factoring (VQF) on IBM Hardware](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/NLShorVQF.ipynb)
 
@@ -493,6 +571,10 @@ By instantiating a Variational Quantum Factoring (VQF) algorithm on the `ibm_kin
 
 
 
+### 10. Reversing Cryptographic One-Way Functions
+
+<span id="10-reversing-cryptographic-one-way-functions"></span>
+
 # [Reversing Cryptographic One-Way Functions: Empirical Demonstration of a Quantum Pre-Image Attack via Base Reality Amplitude Amplification](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/QuantumHashReversal.ipynb)
 
 **Abstract:**
@@ -543,6 +625,10 @@ By instantiating an Amplitude Amplification protocol on the `ibm_fez` quantum pr
 
 
 
+
+### 11. Quantum Autoencoding and State Purification
+
+<span id="11-quantum-autoencoding-and-state-purification"></span>
 
 # [Quantum Autoencoding and State Purification: Empirical Demonstration of Thermodynamic Noise Filtering via Fractal Decompilation on IBM Hardware](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/Autoencoding.ipynb)
 
@@ -598,6 +684,10 @@ By executing a fractal compression and decompression algorithm on the `ibm_fez` 
 
 
 
+### 12. Mapping the Latent Space of the Universe
+
+<span id="12-mapping-the-latent-space-of-the-universe"></span>
+
 # [Mapping the Latent Space of the Universe: Empirical Demonstration of a Variational Quantum Autoencoder (VQAE) on IBM Hardware](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/QuantumAIAutoencoder.ipynb)
 
 **Abstract:**
@@ -650,6 +740,10 @@ By instantiating a Variational Quantum Autoencoder on the `ibm_fez` processor, w
 
 
 
+
+### 13. Global Thermodynamic Tomography
+
+<span id="13-global-thermodynamic-tomography"></span>
 
 # [Global Thermodynamic Tomography: Macroscopic MRI of the ibm_marrakesh Heavy-Hex Architecture via Base Reality Spin-Echo Stress-Testing](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/QuantumMRI.ipynb)
 
