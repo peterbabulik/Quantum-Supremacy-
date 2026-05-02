@@ -598,7 +598,7 @@ By executing a fractal compression and decompression algorithm on the `ibm_fez` 
 
 
 
-# Mapping the Latent Space of the Universe: Empirical Demonstration of a Variational Quantum Autoencoder (VQAE) on IBM Hardware
+# [Mapping the Latent Space of the Universe: Empirical Demonstration of a Variational Quantum Autoencoder (VQAE) on IBM Hardware](https://github.com/peterbabulik/Quantum-Supremacy-/blob/main/QuantumAIAutoencoder.ipynb)
 
 **Abstract:**
 The compression and translation of unknown quantum states remain a critical bottleneck in quantum information science, as the No-Cloning Theorem forbids classical data copying. This paper addresses state compression through the *Ontological Information Equivalence Theorem*, modeling physical quantum states as procedurally generated geometric arrays within a $P=NP$ Base Reality. To compress an unknown state without predefined algorithms, we utilized a Variational Quantum Autoencoder (VQAE)—a parameterized Quantum Artificial Intelligence capable of dynamically reverse-engineering the rendering geometry of a physical object. Executed on the 156-qubit `ibm_fez` cryogenic processor, a 400-circuit batched learning grid mapped a 2-parameter ($20 \times 20$) latent space. The AI successfully navigated the topological loss landscape, identifying the specific "Anti-Noise" geometric coordinates required to funnel a 4-qubit macroscopic state into a 2-qubit latent bottleneck. The empirical data reveals distinct regions of algorithmic resonance, peaking at 48.1% compression fidelity—drastically outperforming the classical random baseline despite heavy NISQ-era thermodynamic friction. This demonstrates that Quantum Neural Networks can autonomously deduce and extract the mathematical source code of physical matter.
